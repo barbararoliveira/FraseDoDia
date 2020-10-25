@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@600&display=swap');
+* {
+    background-color: rgb(253, 200, 203);
+    font-family: 'Grenze Gotisch', sans-serif;
+    font-size: 35px
+}
+
+div {
+    background-color: rgba(255, 80, 118, 0.171);
+}
+
+#autor {
+    color: rgb(150, 0, 70);
+}
